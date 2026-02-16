@@ -1,4 +1,4 @@
-# c-functions-are-hard-asf
+# c-functions 🎀
 ```c
 #include <stdio.h>
 
